@@ -1,7 +1,7 @@
 import java.util.*;
 public class Blackjack
 {
-    public static void main(String[] args)
+    public static void main(String[] args)      //This comment is added for the sake of GitHub
     {
         Scanner myScanner = new Scanner(System.in);
         P1Random rng = new P1Random();
